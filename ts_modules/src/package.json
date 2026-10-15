@@ -1,0 +1,12 @@
+{
+  "name": "tup-wifi-analytics",
+  "version": "1.0.0",
+  "description": "Módulos de validación y analítica de datos para el sistema TUP Wi-Fi",
+  "main": "dist/analytics.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
