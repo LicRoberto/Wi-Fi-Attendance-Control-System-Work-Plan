@@ -1,3 +1,0 @@
-git remote add origin https://github.com/LicRoberto/Wi-Fi-Attendance-Control-System-Work-Plan
-git branch -M main
-git push -u origin main
